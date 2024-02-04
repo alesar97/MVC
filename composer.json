@@ -1,0 +1,15 @@
+{
+  "name": "alesar/mvc-framework",
+  "authors": [
+    {
+      "name": "Alesar",
+      "email": "alesar.esmaeel@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "require": {}
+}
